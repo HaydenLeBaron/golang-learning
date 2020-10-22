@@ -1,5 +1,9 @@
 # Go Notes
 
+## Misc
+
+* [ ] TODO: Implement channels demo
+
 ## Types
 
 ### Integers
