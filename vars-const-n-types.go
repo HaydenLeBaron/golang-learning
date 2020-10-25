@@ -22,6 +22,7 @@ func main() {
         varC = 4
     )
 
+
     fmt.Println("Vars A, B, C:", varA, varB, varC)
 
     // strings can be enlosed in "" or ``
@@ -36,8 +37,4 @@ func main() {
     fmt.Printf("%t \n", isOver40) // Prints the type of a bool
     fmt.Printf("%x \n", 17)  // Print 17 in hex
     fmt.Printf("%d \n", 17)  // Print 17 as an int
-
-
-
-
 }
